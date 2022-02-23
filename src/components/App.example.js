@@ -4,7 +4,7 @@
 // Remember to import Ant Design components before using them.
 import { Row, Divider, Button } from 'antd';
 
-function App() {
+function AppEx() {
   return (
     <div className="App">
       {/* Display Add Food component here */}
@@ -22,4 +22,4 @@ function App() {
   );
 }
 
-export default App;
+export default AppEx;
